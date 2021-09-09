@@ -20,3 +20,8 @@ falso = False
 
 print(type(verdadero))
 print(type(falso))
+
+# NULO
+
+nulo = None
+print(type(nulo))
